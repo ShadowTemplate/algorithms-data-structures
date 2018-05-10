@@ -13,7 +13,7 @@ A collection of didactic C++ implementations of algorithms and data structures.
 
 **Development year(s)**: `2012-2013`
 
-**Author(s)**: **Authors**: [ShadowTemplate](https://github.com/ShadowTemplate)
+**Author(s)**: [ShadowTemplate](https://github.com/ShadowTemplate)
 
 ---
 ## Building tools
